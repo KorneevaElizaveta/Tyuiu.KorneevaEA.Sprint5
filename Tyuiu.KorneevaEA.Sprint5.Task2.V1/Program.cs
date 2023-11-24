@@ -31,7 +31,7 @@ namespace Tyuiu.KorneevaEA.Sprint5.Task2.V1
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан двумерный целочисленный массив 3 на 3 элементов, заполненный        *");
             Console.WriteLine("* значениями с клавиатуры. Заменить нечетные элементы массива на 0.       *");
-            Console.WriteLine("* Результат сохранить в файл OutPutFileTask2.csv и вывести на консоль.      *");
+            Console.WriteLine("* Результат сохранить в файл OutPutFileTask2.csv и вывести на консоль.    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
